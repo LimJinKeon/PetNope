@@ -7,8 +7,17 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </div>
 <h1>결과 화면</h1>
+<h2>메인 페이지</h2>
 <img src="https://github.com/LimJinKeon/PetNope/assets/142428435/0d205e30-3645-4394-b2f1-b91c1fc3164a" />
+<h2>반려견 등록</h2>
 <img src="https://github.com/LimJinKeon/PetNope/assets/142428435/f0619742-138d-4156-b455-b63534ac10e9" />
+<h2>카메라 얼굴 인식</h2>
+<img src="https://github.com/user-attachments/assets/bf8c0ee7-133a-4db4-983c-4cdccc457df1" />
+<h2>실종 신고</h2>
+<img src="https://github.com/user-attachments/assets/a3149110-54ac-43e3-970b-74fc4ebf753b" />
+<h2>마이페이지</h2>
 <img src="https://github.com/LimJinKeon/PetNope/assets/142428435/2a48327b-0841-434c-b2c8-ef885ffe761a" />
+
+
 
 
